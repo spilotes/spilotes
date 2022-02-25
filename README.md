@@ -1,4 +1,6 @@
 # Ricardo-Spilotes
+
+![1645828059737 png_1_-removebg-preview](https://user-images.githubusercontent.com/95318944/155814506-f38315d0-88b2-422f-8dd2-3807960ee0cc.png)
 <img src="https://user-images.githubusercontent.com/95318944/155811665-ce628bad-448e-4f7e-94f8-eaab93443c4c.jpg" width="200px" height="300px">
 
 ### Contatos:
