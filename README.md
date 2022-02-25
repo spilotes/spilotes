@@ -5,7 +5,7 @@
 
 <div align="center">
   
-### Também podes me achar aqui:
+### Também pode me encontrar aqui:
   
 </div>
   
