@@ -1,6 +1,8 @@
 # Ricardo-Spilotes
-![1645828059737.png.jpg](https://user-images.githubusercontent.com/95318944/155811665-ce628bad-448e-4f7e-94f8-eaab93443c4c.jpg width: 40px; height: 60px;); 
-
+<div>
+![1645828059737.png.jpg](https://user-images.githubusercontent.com/95318944/155811665-ce628bad-448e-4f7e-94f8-eaab93443c4c.jpg);
+</div>
+<style>img{width:340px; height:60px;}</style>
 ### Contatos:
 
 <div>
