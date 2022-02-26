@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/95318944/155823837-d307567a-e39a-45db-830b-8675d0babdf1.gif" alt="GitHub" width= 150px=>
+</p>
 <h1 align='center'> Hello, I'm Ricardo Magalhães <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
 Front-end dev with focus on web development</h1>
 <div align="center">
@@ -38,7 +41,7 @@ Front-end dev with focus on web development</h1>
 <a href="https://www.twitch.tv/spilotes1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="center">:gear:&nbsp;GitHub Analytics:</h3>
+<h3>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
     <a href="https://github.com/spilotes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spilotes&show_icons=true&theme=tokyonight" />
