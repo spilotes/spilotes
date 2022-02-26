@@ -39,9 +39,19 @@ Front-end dev with focus on web development</h1>
 <a href="https://https://web.facebook.com/ricardo.spilotes/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCh7zmANYmClfM3hKHyDdiDA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/spilotes1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+</div><br><br>
 
-<h3>:gear:&nbsp;GitHub Analytics:</h3>
+
+
+<div align="center">
+
+ **Operational Systems**  
+
+<img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6">
+  
+</div>
+<br>
+<h3 align-center>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
     <a href="https://github.com/spilotes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spilotes&show_icons=true&theme=tokyonight" />
