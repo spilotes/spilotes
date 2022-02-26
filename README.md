@@ -10,7 +10,7 @@ Front-end dev with focus on web development</h1>
 
 <p align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=annelesinhovski.annelesinhovski)
+<img src="https://img.shields.io/github/watchers/spilotes/Ricardo-Spilotes?style=social" alt="GitHub watchers">
 
 </p>
 
