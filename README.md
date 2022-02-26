@@ -41,16 +41,20 @@ Front-end dev with focus on web development</h1>
 <a href="https://www.twitch.tv/spilotes1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div><br><br>
 
-
-
 <div align="center">
 
- **Operational Systems**  
+**Control Version**
+  
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
 
-<img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6">
+**Operational Systems**  
+
+<img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6" alt="Windows">
   
 </div>
 <br>
+
 <h3 align-center>:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
     <a href="https://github.com/spilotes">
