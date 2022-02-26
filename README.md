@@ -7,8 +7,12 @@ Front-end dev with focus on web development</h1>
   <img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="240px" height="50px">
 </div
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/95318944/155814506-f38315d0-88b2-422f-8dd2-3807960ee0cc.png" width="200px" height="300px">
+<p align="center">
+
+Currently, my main focus of my career is the areas of web development using JavaScript and React stacks.
+
+</p>
+  
 </div>
 
 <p align="center">
@@ -42,20 +46,23 @@ Front-end dev with focus on web development</h1>
 </div><br><br>
 
 <div align="center">
+  
+**Development Tools**<br>
 
+<img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC" alt="VSCode"><br>
+  
 **Control Version**
   
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub"><br><br>
 
 **Operational Systems**  
 
 <img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6" alt="Windows">
-  
-</div>
-<br>
 
-<h3 align-center>:gear:&nbsp;GitHub Analytics:</h3>
+</div><br>
+
+<h3 align="center">:gear:&nbsp;GitHub Analytics:</h3>
   <p align="center">
     <a href="https://github.com/spilotes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spilotes&show_icons=true&theme=tokyonight" />
