@@ -5,12 +5,14 @@
 Front-end dev with focus on web development</h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="240px" height="50px">
-</div
+</div<br>
 
-<p align="center">
-
-Currently, my main focus of my career is the areas of web development using JavaScript and React stacks.
-
+<p>
+  
+☄️Currently, my main focus of my career is the areas of web development using JavaScript and React stacks.<br>
+  
+I hope you find all the information you need. I hope you find all the information you need. If you want to know more send me a message on the channels below and I'll answer you soon.👇
+  
 </p>
   
 </div>
