@@ -39,7 +39,7 @@ I hope you find all the information you need. If you want to know more send me a
 <div align="center">
 <a href="https://www.linkedin.com/in/ricardowebdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/bakunin.provo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5584981430120" alt="WhatsApp" target="_blank">
+<a href="https://wa.me/5551983385777" alt="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/-WHATSAPP-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5551983385777?"/></a>
 <a href = "mailto:ricardospilotes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://https://web.facebook.com/ricardo.spilotes/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
