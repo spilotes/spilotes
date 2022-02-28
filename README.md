@@ -3,6 +3,7 @@
 </p>
 <h1 align='center'> Hello, I'm Ricardo Magalhães <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
 Front-end dev with focus on web development</h1>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="240px" height="50px">
 </div<br>
