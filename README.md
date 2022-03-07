@@ -67,3 +67,5 @@ I hope you find all the information you need. If you want to know more send me a
     <a/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spilotes&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
   </p>
+  
+  ![](https://komarev.com/ghpvc/?username=spilotes)
