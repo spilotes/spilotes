@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/95318944/155823837-d307567a-e39a-45db-830b-8675d0babdf1.gif" alt="GitHub" width= 150px=>
+<img src="https://user-images.githubusercontent.com/95318944/155823837-d307567a-e39a-45db-830b-8675d0babdf1.gif" alt="GitHub" width= 100px=>
 </p>
-<h1 align='center'> Hello, I'm Ricardo Magalhães <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Front-end dev with focus on web development</h1>
+<h3 align='center'> Hello, I'm Ricardo Magalhães <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> 
+Front-end dev with focus on web development.</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="240px" height="50px">
+  <img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="180px"">
 </div<br>
 
 <p>
@@ -19,7 +19,7 @@ I hope you find all the information you need. If you want to know more send me a
 </div>
 
 
-<h2 align='center'> What I'm using most often these days: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
+<h4 align='center'> What I'm using most often these days: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h3>
 <p align = 'center'>
 <img width ='60px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='60px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
@@ -28,7 +28,7 @@ I hope you find all the information you need. If you want to know more send me a
 
 <div align="center">
   
-### You can also find me here:
+<h4> You can also find me here:</h4>
   
 </div>
   
@@ -60,7 +60,7 @@ I hope you find all the information you need. If you want to know more send me a
 
 </div><br>
 
-<h3 align="center">:gear:&nbsp;GitHub Analytics:</h3>
+<h4 align="center">:gear:&nbsp;GitHub Analytics:</h4>
   <p align="center">
     <a href="https://github.com/spilotes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spilotes&show_icons=true&theme=dark" />
