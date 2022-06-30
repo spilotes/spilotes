@@ -5,7 +5,7 @@
 Front-end dev with focus on web development.</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="80px">
+  <p>Portfolio: <a href="https://spilotes.github.io/portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="100px"></a></p>
 </div<br>
 
 <p>
