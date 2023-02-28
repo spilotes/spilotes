@@ -4,7 +4,7 @@
 <h3 align='center'> Hello, I'm Ricardo Magalhães <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> <br /> 
 Front-end dev with focus on web development.</h3>
 
-<p>
+<p align="center">
 ☄️Currently, my main focus of my career is the areas<br>
   of web development using JavaScript and React stacks.<br>
   
