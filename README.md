@@ -4,10 +4,6 @@
 <h3 align='center'> Hello, I'm Ricardo Magalhães <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> <br /> 
 Front-end dev with focus on web development.</h3>
 
-<div align="center">
-  <p>Portfolio: <a href="https://spilotes.github.io/portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/95318944/155817447-00fda72d-bac5-4e60-83a4-c6a4cb318fa3.png" width="100px"></a></p>
-</div<br>
-
 <p>
   
 ☄️Currently, my main focus of my career is the areas of web development using JavaScript and React stacks.<br>
