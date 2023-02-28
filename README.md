@@ -5,11 +5,12 @@
 Front-end dev with focus on web development.</h3>
 
 <p>
+☄️Currently, my main focus of my career is the areas<br>
+  of web development using JavaScript and React stacks.<br>
   
-☄️Currently, my main focus of my career is the areas of web development using JavaScript and React stacks.<br>
-  
-I hope you find all the information you need. If you want to know more send me a message on the channels below and I'll answer you soon.👇
-  
+I hope you find all the information you need. If you want<br>
+to know more send me a message on the channels below and<br>
+I'll answer you soon.👇  
 </p>
   
 </div>
