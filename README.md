@@ -1,8 +1,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/95318944/155823837-d307567a-e39a-45db-830b-8675d0babdf1.gif" alt="GitHub" width="120px">
 </p>
-<h3 align='center'> Hello, I'm Ricardo Magalhães🤘<br> 
-Front-end dev with focus on web development.</h3>
+<h3 align='center'> Hello, I'm Ricardo Magalhães<br> 
+Front-end dev with focus on web development🤘</h3>
 
 <p align="center">
   Currently, my main focus of my career is the areas<br>
