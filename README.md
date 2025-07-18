@@ -24,14 +24,6 @@ I'll answer you soon.👇
 
 <div align="center">
   
-<h4> You can also find me here:</h4>
-  
-</div>
-  
-
-
-<div align="center">
-  
 **Development Tools**<br>
 
 <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC" alt="VSCode"><br>
