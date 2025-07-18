@@ -5,12 +5,11 @@
 Front-end dev with focus on web development.</h3>
 
 <p align="center">
-☄️Currently, my main focus of my career is the areas<br>
+  Currently, my main focus of my career is the areas<br>
   of web development using JavaScript and React stacks.<br>  
 </p>
   
 </div>
-
 
 <h4 align='center'> What I'm using most often these days: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h3>
 <p align = 'center'>
@@ -20,7 +19,7 @@ Front-end dev with focus on web development.</h3>
 <img width ='60px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 
 <div align="center">
-  
+
 **Development Tools**<br>
 
 <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC" alt="VSCode"><br>
@@ -33,7 +32,6 @@ Front-end dev with focus on web development.</h3>
 **Operational Systems**  
 
 <img src="https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6" alt="Windows">
-
 </div><br>
 
 <h4 align="center">:gear:&nbsp;GitHub Analytics:</h4>
