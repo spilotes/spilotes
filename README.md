@@ -5,9 +5,9 @@
 Desenvolvedor Front-end | Criador do Baby Bat Codes🦇</h3>
 
 <p align="center">
-  Currently, my main focus of my career is the areasExploro o lado estético e lógico da web, transformando ideias em experiências digitais.<br>
-  of web development using JavaScript and React stacks.<br>  
-</p>Atualmente, meu foco está no desenvolvimento front-end, com ênfase em JavaScript e React, sempre buscando unir design, performance e narrativa visual no código.
+  Exploro o lado estético e lógico da web, transformando ideias em experiências digitais.<br>
+  Atualmente, meu foco está no desenvolvimento front-end, com ênfase em JavaScript e React, sempre buscando unir design, performance e narrativa visual no código.<br>  
+</p>
   
 </div>
 
